@@ -1,22 +1,18 @@
-# QUANTA-CORE
+# QuantaCotre AI Solutions — Website
 
 [![MIT License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
 
-A modern, open-source platform for quantum-inspired web experiences, built with React, TypeScript, and Tailwind CSS.
+This is the official website for **QuantaCotre AI Solutions** — a company that provides end-to-end, customizable artificial intelligence solutions to enterprises across various industries. We fine-tune and deploy pretrained models such as GPT, LLaMA, BERT, and others to create domain-specific, secure, and scalable AI systems.
 
 ---
 
-## 🚀 About This Project
+## 🚀 Features
 
-Welcome to **QUANTA-CORE**! This project aims to push the boundaries of web design and user experience by leveraging cutting-edge technologies and clean, scalable code. Whether you're here to use, learn, or contribute, your involvement is valued.
-
-## 🌟 Features
-
-- ⚡ Modern, responsive UI (React + Tailwind CSS)
-- 🛠️ TypeScript for reliability and maintainability
-- 📈 Modular component structure
-- 🧪 Easy to extend and customize
-- 🔒 Open-source and community-driven
+- Modern, responsive, dark-themed UI
+- Clear service breakdown of AI customization & deployment
+- Sections: Home, Solutions, Technologies, About Us, Contact
+- Smooth navigation and accessibility support
+- Built for scalability and ease of contribution
 
 ## 🖥️ Getting Started
 

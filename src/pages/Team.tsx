@@ -75,10 +75,26 @@ const Team = () => {
       image: "photo-1438761681033-6461ffad8d80",
       gradient: "from-[#B0FF36] to-[#00CFFF]",
       icon: "🔬"
+    },
+    {
+      name: "Paras Singh",
+      role: "Data Science",
+      specialty: "Data Analysis & Python",
+      bio: "Aspiring data scientist with a curiosity for insights and love for learning new technologies.",
+      expertise: [
+       "Familiar with HTML, CSS, and JavaScript",
+       "Basic knowledge of Python and Pandas library",
+       "Understanding of C and C++ fundamentals",
+       "Exploring data analysis and visualization"
+      ],
+      focus: "Learning & Development",
+      level: "Junior",
+      image: "photo-1506794778202-cad84cf45f1d", 
+      gradient: "from-[#FFDEE9] to-[#B5FFFC]",
+      icon: "📊"
     }
   ];
-
-  const companyValues = [
+     const companyValues = [
     {
       title: "Innovation First",
       description: "We push the boundaries of what's possible with AI fine-tuning, constantly exploring new methodologies and approaches to deliver cutting-edge solutions.",

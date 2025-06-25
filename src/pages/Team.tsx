@@ -92,7 +92,25 @@ const Team = () => {
       image: "photo-1506794778202-cad84cf45f1d", 
       gradient: "from-[#FFDEE9] to-[#B5FFFC]",
       icon: "📊"
+    },
+    {
+      name: "Manjot Singh",
+      role: "AI Intern — Model Engineering Team",
+      specialty: "Model Training, Fine-tuning & Prompt Engineering",
+      bio: "Aspiring AI engineer passionate about customizing and fine-tuning models for domain-specific needs. Currently exploring prompt engineering, evaluation strategies, and integrating LLMs with real-world applications.",
+      expertise: [
+      "B.Tech in CS (IIIT)",
+      "Prompt Engineering, Evaluation & Fine-tuning",
+      "Flask, PostgreSQL, Twilio, OpenAI API",
+      "Exploring NLP, LLMs & Multimodal AI Systems"
+      ],
+      focus: "AI Model Engineering",
+      level: "Junior",
+      image: "", // no image
+      gradient: "from-[#00CFFF] to-[#FF2EF7]",
+      icon: "🚀"
     }
+
   ];
      const companyValues = [
     {
